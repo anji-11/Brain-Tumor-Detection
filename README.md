@@ -1,6 +1,6 @@
 # Brain-Tumor-Detection
 Building a detection model using a convolutional neural network in Tensorflow & Keras.
-Used a brain MRI images data from Kaggle. You can find it [here](https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection) .
+Used  brain MRI images data from Kaggle. You can find it [here](https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection) .
 
 ### About the data:
 The dataset contains 2 folders: yes and no which contains 253 Brain MRI Images. The folder yes contains 155 Brain MRI Images that are tumorous and the folder no contains 98 Brain MRI Images that are non-tumorous.
@@ -8,7 +8,7 @@ The dataset contains 2 folders: yes and no which contains 253 Brain MRI Images. 
 ## Getting Started
 ## Data Augmentation:
 ### Why did I use data augmentation?
-Since this is a small dataset, There wasn't enough examples to train the neural network. Also, data augmentation was useful in taclking the data imbalance issue in the data.
+Since this is a small dataset, There wasn't enough examples to train the neural network. Also, data augmentation was useful in tackling the data imbalance issue .
 
 Further explanations are found in the Data Augmentation notebook.
 
